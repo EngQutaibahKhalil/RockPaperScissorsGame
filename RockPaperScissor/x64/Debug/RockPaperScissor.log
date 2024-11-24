@@ -1,0 +1,4 @@
+﻿  RockPaperScissor.cpp
+D:\projects\visual studio projects\RockPaperScissor\RockPaperScissor.cpp(118,1): warning C4715: 'GetPlayerChoose': not all control paths return a value
+D:\projects\visual studio projects\RockPaperScissor\RockPaperScissor.cpp(135,1): warning C4715: 'GetTheWinner': not all control paths return a value
+  RockPaperScissor.vcxproj -> D:\projects\visual studio projects\RockPaperScissor\x64\Debug\RockPaperScissor.exe
